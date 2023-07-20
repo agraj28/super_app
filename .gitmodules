@@ -1,3 +1,3 @@
-[submodule "framework/super_app_framework"]
-	path = framework/super_app_framework
+[submodule "super_app_framework/super_app_framework"]
+	path = super_app_framework/super_app_framework
 	url = https://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@github.com/agrajparashar/super_app_framework.git
