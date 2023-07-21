@@ -1,0 +1,20 @@
+{
+  "profile_close": "Close",
+  "profile_settings": "Settings",
+  "profile_accounts": "Accounts",
+  "profile_share_feedback":"Share your feedback",
+  "profile_payments": "Payment",
+  "profile_important_contacts": "Favourite Contacts",
+  "profile_blacklist": "Need to Reply Skiplist",
+  "profile_add_contacts": "Add More Contacts",
+  "profile_sign_out": "Sign Out",
+  "profile_add_account": "Add an Account",
+  "profile_light_theme": "Dark theme",
+  "profile_change": "Change",
+  "profile_wakeword_settings": "Settings",
+  "profile_share_feedback_improvement":"Suggest an improvement",
+  "profile_share_feedback_idea":"Suggest an idea",
+  "profile_share_feedback_others":"Other",
+  "profile_privacy_center": "User data deletion",
+  "profile_privacy_policy": "Privacy Center"
+}
