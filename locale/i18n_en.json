@@ -1,0 +1,22 @@
+{
+  "button_dismiss": "Dismiss",
+  "error_message_offline": "Looks like you are offline. Please check your network connection and try again.",
+  "error_unexpected": "Unexpected error occurred",
+  "error_network": "Network error occurred",
+  "common_app_needs_an_update": "App needs an update",
+  "common_to_use_this_app_download_the_latest_version": "To use this app, download the latest version.",
+  "common_app_init_error_message": "Error while Initializing Application Please retry.",
+  "common_app_auth_failed": "Authentication failed",
+  "common_error": "Error",
+  "common_retry": "Retry",
+  "common_update": "Update",
+  "media_picker_add_an_attachment": "Add an attachment",
+  "media_picker_photos_button": "PHOTOS",
+  "media_picker_videos_button": "VIDEOS",
+  "media_picker_documents_button": "DOCUMENTS",
+  "signup_email_text": "To secure your account I'll send you a verification code",
+  "signin_login_fail_default_error": "Your email or password is incorrect",
+  "signup_mobile_text" : "I'll send you a verification code",
+  "signup_dob_default_error": "Please enter a valid date of birth",
+  "reset_confirm_text": "I've sent you an email to reset your password."
+}
