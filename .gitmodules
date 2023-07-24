@@ -1,3 +1,6 @@
 [submodule "framework/super_app_framework"]
 	path = framework/super_app_framework
 	url = https://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@github.com/agrajparashar/super_app_framework.git
+[submodule "core/super_app_core_module"]
+	path = core/super_app_core_module
+	url = https://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@github.com/agrajparashar/super_app_core_module.git
